@@ -1,8 +1,6 @@
-# ML Elective: Linear Regression
+# ML Elective Repository
 
-This project demonstrates a simple linear regression model that predicts
-house prices from house area. It uses Python, pandas, NumPy, and
-scikit-learn in a Jupyter notebook.
+This project is the collection of models and notebooks for the ML Elective course throughout the semester.
 
 ## Project Structure
 
